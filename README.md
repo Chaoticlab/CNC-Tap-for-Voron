@@ -8,5 +8,5 @@
 **Sensor Specifications**: [Specifications](Images/Specifications)  
 **CNC VORON TAP Build Manual**: [Manual](Manual/CNC_Voron_Tap_Build_Guide.pdf)  
 ## CNC Tap for Voron V2
-**CNC VORON TAP V2 Build Manual**: [Manual](Manual/CNC_Voron_Tap_V2_Build_Guide_20231013.pdf)  
-**CNC VORON TAP V2 中文说明书**: [说明书](Manual/CNC_Voron_Tap_V2用户手册_20231013.pdf) 
+**CNC VORON TAP V2 Build Manual**: [Manual](Manual/CNC_VORON_TAP_V2_User_Manual_20240129.pdf)  
+**CNC VORON TAP V2 中文说明书**: [说明书](Manual/CNC_VORON_TAP_V2用户手册_20240129.pdf) 
